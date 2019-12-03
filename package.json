@@ -1,5 +1,5 @@
 {
-  "name": "hapi-sentry",
+  "name": "@heyporter/hapi-sentry",
   "version": "2.1.0-3",
   "description": "hapi plugin for @sentry/node",
   "main": "index.js",
